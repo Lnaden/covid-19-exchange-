@@ -1,7 +1,7 @@
 ---
 title: "Serine Protease TMPRSS2"
 tags: []
-description: "Hemagglutinin-activating host protease gene TMPRSS2"
+description: "Transmembrane serine protease used to activate spike protein for fusion"
 target: "tmprss2"
 list-order: 2
 subcategory: Hosts and Receptors (no Virus)
